@@ -1,0 +1,28 @@
+section{
+  margin: auto;
+  width: 25%;
+  margin-top:100px;
+}
+.search{
+    background-color:#EEEEEE;
+    text-align: center;
+}
+.search input{
+    width:340px;
+}
+.buttons{
+    position: relative;
+    left:10px;   
+}
+.columns{
+    margin:5px;
+    display:flex;
+    justify-content:space-evenly; 
+    background-color:#70CCC2;
+}
+.columns ul{
+    list-style-type: none;
+}
+h4{
+ text-align: center;
+}
